@@ -17,8 +17,8 @@ I enjoy building **targeted projects** that deepen my understanding of programmi
 I blog at [ntwalibas.github.io](https://ntwalibas.github.io/) on programming and research.  
 
 Highlights:  
-- [Quantum designs](https://ntwalibas.github.io/blog/2024/03/08/introduction-to-quantum-designs/) — approachable explanation of a dense topic.  
-- [Reflections on CLI tools](https://ntwalibas.github.io/blog/2025/10/02/reflections-on-command-line-interface-tools/) — lessons on better CLI design. 
+- [Quantum designs](https://ntwalibas.github.io/blog/2024/03/08/introduction-to-quantum-designs/) — approachable explanation of a topic I found dense when learning it.  
+- [Reflections on CLI tools](https://ntwalibas.github.io/blog/2025/10/02/reflections-on-command-line-interface-tools/) — my thoughts on designing better CLI tools. 
 
 ### 💡 Current Focus
 
