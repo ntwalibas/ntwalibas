@@ -14,7 +14,7 @@ I enjoy building **targeted projects** that deepen my understanding of programmi
 
 ### 📕 Writing
 
-I blog at [ntwalibas.github.io](https://ntwalibas.github.io/) on programming and research.  
+I blog at [ntwalibas.github.io](https://ntwalibas.github.io/) on software engineering.  
 
 Highlights:  
 - [Quantum designs](https://ntwalibas.github.io/blog/2024/03/08/introduction-to-quantum-designs/) — approachable explanation of a topic I found dense when learning it.  
