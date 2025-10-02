@@ -23,4 +23,4 @@ Highlights:
 ### 💡 Current Focus
 
 - Exploring **local-first AI** with small language models.  
-- Making notes on **transformers** and **subtelities of integers**.
+- Making notes on **transformers** and **subtelities of integers operations** in compilers.
