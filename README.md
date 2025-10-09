@@ -7,10 +7,11 @@ I enjoy building **targeted projects** that deepen my understanding of programmi
 
 ### 💼 Selected Projects
 
+- [**CLAI**](https://github.com/ntwalibas/clai/) — an experimental natural-language shell using RAG + small LLMs. 
+- [**Zeste**](https://github.com/ntwalibas/zeste/) — a Django project for managing a small manufacturing operation. 
 - [**Avalon**](https://github.com/avalon-lang/) — a programming language with a tree-walk interpreter and quantum extensions.  
 - [**Proto**](https://github.com/ntwalibas/proto) — a lightweight prototyping language.  
 - [**C Collections**](https://github.com/ntwalibas/ccollections) — a C library of data structures.  
-- [**CLAI**](https://github.com/ntwalibas/clai/) — an experimental natural-language shell using RAG + small LLMs. 
 
 ### 📕 Writing
 
