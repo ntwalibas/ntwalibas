@@ -24,4 +24,6 @@ Highlights:
 ### 💡 Current Focus
 
 - Exploring **local-first AI** with small language models.  
-- Making notes on **transformers** and **subtelities of integers operations** in compilers.
+- Making notes on [feedforward neural networks](https://github.com/ntwalibas/for-programmers/tree/main/Feedforward%20neural%20networks/),
+  and [unsigned integers](https://github.com/ntwalibas/for-programmers/blob/main/Unsigned%20integers/).
+
